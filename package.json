@@ -1,0 +1,25 @@
+{
+  "name": "transform-csv",
+  "version": "1.0.0",
+  "description": "Reads a large csv file in a streamed manner, transforms every row as needed and writes it to a new file.",
+  "main": "transform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhankarS/transform-csv.git"
+  },
+  "keywords": [
+    "csv",
+    "stream",
+    "transform",
+    "file"
+  ],
+  "author": "Shubhankar S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhankarS/transform-csv/issues"
+  },
+  "homepage": "https://github.com/ShubhankarS/transform-csv#readme"
+}
